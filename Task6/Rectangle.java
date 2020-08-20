@@ -1,3 +1,6 @@
+/**
+* 
+*/
 public class Rectangle {
 
 	Rectangle (int number) {
