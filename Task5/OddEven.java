@@ -1,3 +1,8 @@
+/**
+* Write a JAVA program that takes out the even from the odds and odd from the list of even numbers, 
+* For eg, => {23,25,75,87,47,1,91,51,2} //Output for this case =>2 
+* {22,44,64,76,98,12,43,54,90} // Output for this case =>43. 
+*/
 public class OddEven {
 
 		public static void main(String args[]) {
