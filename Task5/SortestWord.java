@@ -1,3 +1,7 @@
+/**
+* Write a JAVA program that takes given String of words and return the length of the shortest word. 
+*/
+
 import java.util.Scanner;
 
 public class SortestWord {
