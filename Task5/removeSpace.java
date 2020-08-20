@@ -1,3 +1,7 @@
+/**
+* Write a JAVA method to remove all the spaces from the String and return the resultant. 
+*/
+
 import java.util.Scanner;
 
 public class removeSpace {
