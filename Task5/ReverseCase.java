@@ -1,3 +1,7 @@
+/**
+* Write a JAVA program that swaps the case of the alphabets of the string, 
+* For eg, => “heLLo WOrLd” => “HEllO woRlD”. 
+*/
 public class ReverseCase {
 
 	public static void main(String args[]) {
