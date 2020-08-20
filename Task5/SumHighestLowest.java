@@ -1,3 +1,7 @@
+/**
+* Write a JAVA program that gives sum of all the values of array except the highest and lowest values. 
+*/
+
 public class SumHighestLowest {
 
 	public static void main(String args[]) {
