@@ -1,3 +1,7 @@
+/**
+* Write a JAVA program that reverse the words of a sentence. 
+*  For eg, => “Be Happy and Stay Motivated” => “eB yppah dna yatS detavitoM”. 
+*/
 public class ReverseWord {
 
 	public static void main(String args[]) {
