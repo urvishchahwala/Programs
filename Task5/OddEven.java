@@ -6,6 +6,19 @@
 public class OddEven {
 
 		public static void main(String args[]) {
+			Scanner sc=new Scanner(System.in);//Use scanner class to take input
+			//Instead of assuming the array make program a little Interactive and let user enter the array!
+			// for Example
+			System.out.println("Enter size of array");
+			int n=sc.nextInt();
+			int odd[]=new odd[n];
+			System.out.println("Enter odd elements array");
+			for(int i=0;i<n;i++){
+				odd[i]=sc.nextInt();
+			}
+			//Similar way for the even array
+			//Will make the program interactive
+			
 
 		int[] odd = { 23, 25, 75, 87, 47, 1, 91, 51, 2 };
 		int[] even = { 22, 44, 64, 76, 98, 12, 43, 54, 90 };
